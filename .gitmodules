@@ -1,0 +1,3 @@
+[submodule "TensorANFIS"]
+	path = TensorANFIS
+	url = https://github.com/tiagoCuervo/TensorANFIS.git
